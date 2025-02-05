@@ -1,11 +1,3 @@
-# Latihan buat Github. 
+# The dummy project for Segmentation 
 
-description
-
-## subheader 
-
-Hello, this is Salma
-
-## Local development
-
-1. Open inde.html in your browser
+Hello! This is Salma Salsabila and it will be my place to learn more about segmentation, make it better in every update that I make. 
